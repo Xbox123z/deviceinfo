@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp" android:height="108dp"
+    android:viewportWidth="108" android:viewportHeight="108">
+    <group>
+        <clip-path android:pathData="M24,0 H84 C96.63,0 108,11.37 108,24 V84 C108,96.63 96.63,108 84,108 H24 C11.37,108 0,96.63 0,84 V24 C0,11.37 11.37,0 24,0 Z" />
+    <path android:fillColor="#2A62C9" android:pathData="M0,0 H108 V108 H0 Z" />
+    <path android:fillColor="#3C7BE0" android:pathData="M0,0 H108 L0,86 Z" />
+    <path android:fillColor="#1F4E9E" android:pathData="M108,44 L108,108 L22,108 Z" />
+    <!-- 白色 "i" 信息符号：点 + 圆角竖条 -->
+    <path android:fillColor="#FFFFFF"
+    android:pathData="M54,28 C57.31,28 60,30.69 60,34 C60,37.31 57.31,40 54,40 C50.69,40 48,37.31 48,34 C48,30.69 50.69,28 54,28 Z" />
+    <path android:fillColor="#FFFFFF"
+    android:pathData="M47,53 C47,49.13 50.13,46 54,46 C57.87,46 61,49.13 61,53 L61,71 C61,74.87 57.87,78 54,78 C50.13,78 47,74.87 47,71 Z" />
+    <!-- 底部两道短横，像系统信息行 -->
+    <path android:fillColor="#CCFFFFFF" android:pathData="M38,84 H70 V87.4 H38 Z" />
+    <path android:fillColor="#99FFFFFF" android:pathData="M44,90 H64 V92.6 H44 Z" />
+    </group>
+</vector>
