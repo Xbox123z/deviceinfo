@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">设备信息 · 自研版</string>
+    <string name="hint_copy">长按任意数值可复制</string>
+    <string name="refresh">刷新</string>
+    <string name="collecting">正在采集…</string>
+</resources>
